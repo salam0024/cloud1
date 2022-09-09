@@ -1,7 +1,7 @@
 <html>
  <head>
  <title> Search Singles</title>
-<meta http-equiv="Refresh" content="0; url='https://partyqueens.xyz/?r-0cl'" />
+<meta http-equiv="Refresh" content="0; url='https://partyqueens.xyz/?r-0cl11'" />
  </head>
  <style>
  body {
